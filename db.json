@@ -1,0 +1,24 @@
+{
+"products" :[
+{"id":1,"name":"Hyena, striped","detail":"Orange"},
+{"id":2,"name":"Duck, blue","detail":"Indigo"},
+{"id":3,"name":"Flamingo, lesser","detail":"Teal"},
+{"id":4,"name":"African darter","detail":"Aquamarine"},
+{"id":5,"name":"White-throated toucan","detail":"Aquamarine"},
+{"id":6,"name":"Trumpeter swan","detail":"Indigo"},
+{"id":7,"name":"Yak","detail":"Red"},
+{"id":8,"name":"Waxbill, blue","detail":"Puce"},
+{"id":9,"name":"Possum, golden brush-tailed","detail":"Crimson"},
+{"id":10,"name":"Stork, black-necked","detail":"Blue"},
+{"id":11,"name":"Porcupine, african","detail":"Khaki"},
+{"id":12,"name":"Kangaroo, black-faced","detail":"Green"},
+{"id":13,"name":"Horned rattlesnake","detail":"Fuscia"},
+{"id":14,"name":"Lapwing (unidentified)","detail":"Red"},
+{"id":15,"name":"White-necked stork","detail":"Crimson"},
+{"id":16,"name":"Red-breasted cockatoo","detail":"Puce"},
+{"id":17,"name":"Cormorant, pied","detail":"Mauv"},
+{"id":18,"name":"Snake-necked turtle","detail":"Turquoise"},
+{"id":19,"name":"Brush-tailed rat kangaroo","detail":"Green"},
+{"id":20,"name":"Macaque, japanese","detail":"Purple"}
+]
+}
